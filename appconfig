@@ -1,0 +1,6 @@
+application_name=ericextension
+application_version=0.0.1
+application_description=
+application_icon=https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/600px-Redis_Logo.svg.png
+helm_chart_version=1.0.0
+docker_registry=ericliusap
