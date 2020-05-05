@@ -1,6 +1,6 @@
-application_name=ericextension
-application_version=0.0.2
-application_description=
+application_name=ericextension0505
+application_version=0.0.1
 application_icon=https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/600px-Redis_Logo.svg.png
-helm_chart_version=1.0.1
+application_description=this\'s\ a\ wonderful\ application.\ End\ user\ can\ generate\ chart\ in\ multiple\ styles.\ 90%\ user\ like\ it.
+helm_chart_version=0.0.1
 docker_registry=ericliusap

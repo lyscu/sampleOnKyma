@@ -5,7 +5,7 @@ replicaCount: 1
 
 image:
   registry: ericliusap
-  name: ericextension
+  name: ericextension0505
   pullPolicy: Always
 
 imagePullSecrets: []

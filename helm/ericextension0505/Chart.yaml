@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ericextension
+name: ericextension0505
 
 # A chart can be either an 'application' or a 'library' chart.
 #
@@ -13,13 +13,13 @@ type: application
 
 # This is the chart version. This version number should be incremented each time you make changes
 # to the chart and its templates, including the app version.
-version: 1.0.1
+version: 0.0.1
 
 # This is the version number of the application being deployed. This version number should be
 # incremented each time you make changes to the application.
-appVersion: "0.0.2"
+appVersion: "0.0.1"
 
-description: this is a test extension app.
+description: this's a wonderful application. End user can generate chart in multiple styles. 90% user like it.
 
 # A URL to an SVG or PNG image to be used as an icon
 icon: https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/600px-Redis_Logo.svg.png
