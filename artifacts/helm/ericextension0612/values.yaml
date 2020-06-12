@@ -5,7 +5,7 @@ replicaCount: 1
 
 image:
   registry: docker.io/ericliusap
-  name: ericextension0611
+  name: ericextension0612
   pullPolicy: Always
 
 imagePullSecrets: []
