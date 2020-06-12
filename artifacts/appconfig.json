@@ -3,7 +3,7 @@
   "provider": "SAP Corp",
   "description": "Good tool for you to generate better charts.",
   "version": "0.0.1",
-  "icon": "https://goss.veer.com/creative/vcg/veer/800water/veer-376157004.jpg",
+  "icon": "http://img.jk51.com/img_jk51/88856736.jpeg",
   "dockerRegistry": "docker.io/ericliusap",
   "helmChartVersion": "1.0.0",
   "parameters": []
