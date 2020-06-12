@@ -3,7 +3,7 @@
   "provider": "SAP Corp",
   "description": "Good tool for you to generate better charts.",
   "version": "0.0.1",
-  "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/400px-Redis_Logo.svg.png",
+  "icon": "https://goss.veer.com/creative/vcg/veer/800water/veer-376157004.jpg",
   "dockerRegistry": "docker.io/ericliusap",
   "helmChartVersion": "1.0.0",
   "parameters": []
