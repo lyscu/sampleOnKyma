@@ -1,6 +1,0 @@
-application_name=ericextension0529
-application_version=0.0.1
-application_icon=http://p0.so.qhimgs1.com/t01241307490fea58ec.gif
-application_description=It\'s\ a\ good\ assistant\ for\ planner.
-helm_chart_version=1.0.0
-docker_registry=docker.io/ericliusap
