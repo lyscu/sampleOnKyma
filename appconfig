@@ -1,6 +1,6 @@
 application_name=ericextension0529
 application_version=0.0.1
-application_icon=https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/600px-Redis_Logo.svg.png
+application_icon=https://goss.veer.com/creative/vcg/veer/800water/veer-376157004.jpg
 application_description=It\'s\ a\ good\ assistant\ for\ planner.
 helm_chart_version=1.0.0
 docker_registry=docker.io/ericliusap
