@@ -3,7 +3,7 @@
   "provider": "SAP Corp",
   "description": "Good tool for you to generate better charts.",
   "version": "0.0.1",
-  "icon": "http://static.zybuluo.com/seven-su1/0b3ozujj8634jgih4btdmjkt/continue%E5%92%8Cbreak.gif",
+  "icon": "http://p0.so.qhimgs1.com/t01241307490fea58ec.gif",
   "dockerRegistry": "docker.io/ericliusap",
   "helmChartVersion": "1.0.0",
   "parameters": []
